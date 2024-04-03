@@ -25,4 +25,4 @@ $n = [1,3,2,1];
 $resposta = new Solution();
 $r = $resposta->getConcatenation($n);
 
-var_dump($r);
+//var_dump($r);
