@@ -8,15 +8,15 @@ class Solution {
      * @return Integer
      */
     function theMaximumAchievableX($num, $t) {
-        $x = 0;
+        $x = $num + 2*$t;
 
         return $x;
     }
 }
 
-$entrada = 4;
-$t = 1;
+$entrada = 3;
+$t = 2;
 
 $resposta = new Solution();
 $r = $resposta->theMaximumAchievableX($entrada, $t);
-var_dump($x);
+var_dump($r);
