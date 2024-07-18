@@ -1,1 +1,1 @@
-Algyuns desafios feitos do Leetcode
+Alguns desafios feitos do Leetcode
